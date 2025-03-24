@@ -1,0 +1,21 @@
+main{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    flex: 1;
+}
+
+.rodape{
+    width: 100%;
+    margin-top: 11%;
+    background-color: rgb(69, 107, 141);
+    color:white;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.imagem{
+    width: 80px;
+}
